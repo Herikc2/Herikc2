@@ -1,5 +1,6 @@
 Hi there 👋, My name is Herikc, I'm studying Computures Science at the University of the Valley of Itajaí. I love to learn about how the things work behind the scenes, and I'm currently studying data science. Currently I'm try to specialized in Data Science and it's so difficult, but in same time pretty cool.
 
+- 🇧🇷 I live in Brazil
 - 🔭 I’m currently working on BRF
 - 🌱 I’m currently learning Data Science
 - 🤔 I’m looking for help with Deep Learning
