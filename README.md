@@ -7,6 +7,12 @@ Hi there 👋, My name is Herikc, I'm studying Computures Science at the Univers
 - 💬 Ask me everything Data Science, I love talk about
 - ⚡ Fun fact: I almost studied Visual Arts
 
+<div>
+  <a href="https://github.com/Herikc2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Herikc2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herikc2&layout=compact&langs_count=20&theme=dracula"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
