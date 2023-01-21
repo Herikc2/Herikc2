@@ -1,9 +1,9 @@
-Hi there 👋, My name is Herikc, I'm studying Computer Science at the University of the Valley of Itajaí. I love to learn about how things work behind the scenes, and I'm currently studying data science. I'm trying to specialize in Data Science and it's so difficult but at the same time pretty cool.
+Hi there 👋, My name is Herikc. I'm a Computer Scientist. I love to learn about how things work behind the scenes, and I'm currently studying data science. I'm trying to specialize in Data Science, and it's so complex but, at the same time, pretty cool.
 
-- 💻 I’m working at Deloitte as an RPA developer
-- 📚 I’m learning Data Science
-- 🤔 I’m looking for help with Deep Learning
-- 💬 Ask me everything about Data Science, I love to talk about
+- 💻 I'm working at Deloitte as an RPA developer
+- 📚 I'm learning Data Science
+- 🤔 I'm looking for help with Deep Learning
+- 💬 Ask me everything about Data Science. I love to talk about
 - ⚡ Fun fact: I almost studied Visual Arts
 
 <div style="display: inline_block">
