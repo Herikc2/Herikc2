@@ -10,7 +10,6 @@ Hi there 👋, My name is Herikc. I'm a Computer Scientist. I love to learn abou
   <a href="https://github.com/Herikc2">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Herikc2&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herikc2&layout=compact&theme=dracula&langs_count=10"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herikc2&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
